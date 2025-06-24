@@ -1,0 +1,11 @@
+# Ignora carpetas internas y archivos innecesarios
+.git/
+__pycache__/
+*.pyc
+*.pkl
+.env
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.db
